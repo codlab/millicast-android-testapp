@@ -1,4 +1,1 @@
-include ':MillicastSDK'
-include ':AndroidSDK'
 include ':app'
-rootProject.name = "android-app"

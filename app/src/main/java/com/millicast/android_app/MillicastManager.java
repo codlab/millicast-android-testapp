@@ -1455,7 +1455,7 @@ public class MillicastManager {
         switch (type) {
             case START:
                 logTag += "[Start] ";
-                settings.startBitrateKbps = Optional.of(bitrate);
+                //settings.startBitrateKbps = Optional.of(bitrate);
                 break;
             case MIN:
                 logTag += "[Min] ";
